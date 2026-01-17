@@ -1,0 +1,78 @@
+major,field,conference
+Computer Science,Computer Architecture,ASPLOS
+Computer Science,Computer Architecture,ISCA
+Computer Science,Computer Architecture,MICRO
+Computer Science,Computer Architecture,HPCA
+Computer Science,Computer Networks,SIGCOMM
+Computer Science,Computer Networks,NSDI
+Computer Science,Computer Security,CCS
+Computer Science,Computer Security,IEEE S&P
+Computer Science,Computer Security,USENIX SECURITY
+Computer Science,Computer Security,NDSS
+Computer Science,Databases,SIGMOD
+Computer Science,Databases,VLDB
+Computer Science,Databases,ICDE
+Computer Science,Databases,PODS
+Computer Science,Design Automation,DAC
+Computer Science,Design Automation,ICCAD
+Computer Science,Embedded & Real-time Systems,EMSOFT
+Computer Science,Embedded & Real-time Systems,RTAS
+Computer Science,Embedded & Real-time Systems,RTSS
+Computer Science,High-performance Computing,HPDC
+Computer Science,High-performance Computing,ICS
+Computer Science,High-performance Computing,SC
+Computer Science,Mobile Computing,MOBICOM
+Computer Science,Mobile Computing,MOBISYS
+Computer Science,Mobile Computing,SENSYS
+Computer Science,Measurement & Perf. Analysis,IMC
+Computer Science,Measurement & Perf. Analysis,SIGMETRICS
+Computer Science,Operating Systems,OSDI
+Computer Science,Operating Systems,SOSP
+Computer Science,Operating Systems,EUROSYS
+Computer Science,Operating Systems,FAST
+Computer Science,Operating Systems,USENIX ATC
+Computer Science,Programming Languages,PLDI
+Computer Science,Programming Languages,POPL
+Computer Science,Programming Languages,ICFP
+Computer Science,Programming Languages,OOPSLA
+Computer Science,Software Engineering,FSE
+Computer Science,Software Engineering,ICSE
+Computer Science,Software Engineering,ASE
+Computer Science,Software Engineering,ISSTA
+Computer Science,Algorithms & Complexity,FOCS
+Computer Science,Algorithms & Complexity,SODA
+Computer Science,Algorithms & Complexity,STOC
+Computer Science,Cryptography,CRYPTO
+Computer Science,Cryptography,EUROCRYPT
+Computer Science,Logic & Verification,CAV
+Computer Science,Logic & Verification,LICS
+Computer Science,Comp. Bio & Bioinformatics,ISMB
+Computer Science,Comp. Bio & Bioinformatics,RECOMB
+Computer Science,Computer Graphics,SIGGRAPH
+Computer Science,Computer Graphics,SIGGRAPH ASIA
+Computer Science,Computer Graphics,EUROGRAPHICS
+Computer Science,Computer Science Education,SIGCSE
+Computer Science,Economics & Computation,EC
+Computer Science,Economics & Computation,WINE
+Computer Science,Human-Computer Interaction,CHI
+Computer Science,Human-Computer Interaction,UIST
+Computer Science,Human-Computer Interaction,UBICOMP/PERVASIVE/IMWUT
+Computer Science,Robotics,ICRA
+Computer Science,Robotics,IROS
+Computer Science,Robotics,RSS
+Computer Science,Visualization,VIS
+Computer Science,Visualization,VR
+Computer Science,Artificial Intelligence,AAAI
+Computer Science,Artificial Intelligence,IJCAI
+Computer Science,Computer Vision,CVPR
+Computer Science,Computer Vision,ECCV
+Computer Science,Computer Vision,ICCV
+Computer Science,Machine Learning,ICLR
+Computer Science,Machine Learning,ICML
+Computer Science,Machine Learning,SIGKDD
+Computer Science,Machine Learning,NEURIPS
+Computer Science,Natural Language Processing,ACL
+Computer Science,Natural Language Processing,EMNLP
+Computer Science,Natural Language Processing,NAACL
+Computer Science,The Web & Information Retrieval,SIGIR
+Computer Science,The Web & Information Retrieval,WWW
